@@ -1,0 +1,178 @@
+{
+  "flow_type": "data_list",
+  "flow_name": "pdf_data",
+  "status": "released",
+  "data_list_name": "pdf",
+  "rows": [
+    {
+      "id": "group_a_onboarding",
+      "pdf_asset": "pdf/group_a_onboarding.pdf",
+      "title": "Group A",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group A"
+        }
+      }
+    },
+    {
+      "id": "group_a_overview",
+      "pdf_asset": "pdf/group_a_overview.pdf",
+      "title": "Group A",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group A"
+        }
+      }
+    },
+    {
+      "id": "group_b_onboarding",
+      "pdf_asset": "pdf/group_b_onboarding.pdf",
+      "title": "Group B",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group B"
+        }
+      }
+    },
+    {
+      "id": "group_b_overview",
+      "pdf_asset": "pdf/group_b_overview.pdf",
+      "title": "Group B",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group B"
+        }
+      }
+    },
+    {
+      "id": "group_c_closing",
+      "pdf_asset": "pdf/group_c_closing.pdf",
+      "title": "Group C",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group C"
+        }
+      }
+    },
+    {
+      "id": "group_c_onboarding",
+      "pdf_asset": "pdf/group_c_onboarding.pdf",
+      "title": "Group C",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group C"
+        }
+      }
+    },
+    {
+      "id": "group_c_overview",
+      "pdf_asset": "pdf/group_c_overview.pdf",
+      "title": "Group C",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group C"
+        }
+      }
+    },
+    {
+      "id": "group_d_closing",
+      "pdf_asset": "pdf/group_d_closing.pdf",
+      "title": "Group D",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group D"
+        }
+      }
+    },
+    {
+      "id": "group_d_onboarding",
+      "pdf_asset": "pdf/group_d_onboarding.pdf",
+      "title": "Group D",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group D"
+        }
+      }
+    },
+    {
+      "id": "group_d_overview",
+      "pdf_asset": "pdf/group_d_overview.pdf",
+      "title": "Group D",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "Group D"
+        }
+      }
+    },
+    {
+      "id": "group_masw_overview",
+      "pdf_asset": "pdf/group_masw_overview.pdf",
+      "title": "MASW",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "MASW"
+        }
+      }
+    },
+    {
+      "id": "group_masw_onboarding",
+      "pdf_asset": "pdf/group_masw_onboarding.pdf",
+      "title": "MASW",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "MASW"
+        }
+      }
+    },
+    {
+      "id": "group_masw_closing",
+      "pdf_asset": "pdf/group_masw_closing.pdf",
+      "title": "MASW",
+      "_translations": {
+        "title": {}
+      },
+      "_translatedFields": {
+        "title": {
+          "eng": "MASW"
+        }
+      }
+    }
+  ],
+  "_xlsxPath": "data/FacilitatorApp UG content.xlsx"
+}

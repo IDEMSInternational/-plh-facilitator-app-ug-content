@@ -20,7 +20,7 @@ config.android = {
 
 config.git = {
   content_repo: "https://github.com/IDEMSInternational/plh-facilitator-app-ug-content.git",
-  content_tag_latest: "1.0.0",
+  content_tag_latest: "1.0.1",
 };
 
 config.api.db_name = "plh_facilitator_ug"
