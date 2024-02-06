@@ -7,8 +7,8 @@ const config = generateDeploymentConfig("plh_facilitator_ug");
  */
 
 config.google_drive = {
-  sheets_folder_ids: ["1KDrl35wASEq5SLC6QrlX1JKas6coi3zs", "1rFg8qsmb3xSOXw_9Iwxk8RgSmyjqiao9"],
-  assets_folder_ids: ["1lfgHb4BezeF2g2GXwPHJDg5ySSxEl_gU", "1tr76W9OusHHkjJ4DNR84x-B26VgGCSFy"],
+  sheets_folder_ids: ["1k8zJfBeOm18gYDsk0XmdUm7OFtZDUY9R","1KDrl35wASEq5SLC6QrlX1JKas6coi3zs"],
+  assets_folder_ids: ["1KcHDI7O4o2_FZ_YlXsz-8OqN3ehsfdVf","1lfgHb4BezeF2g2GXwPHJDg5ySSxEl_gU"],
 };
 
 config.android = {
